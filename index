@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Document</title>
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+    </head>
+    <body>
+            <header>
+                <div class:="header_left1">logo</div>
+                   <div class="header_left2">
+                   <ul>
+                       <li>资料管理</li>
+                       <li>待定</li>
+                       <li>待定</li>
+                   </ul>
+
+                   </div>
+
+<div class="nav-search-box">
+<div class="nav-search">
+<form id="nav_searchform">
+<input type="text" autocomplete="off" accesskey="s" x-webkit-speech="" x-webkit-grammar="builtin:translate" placeholder="日本街舞课！你管这叫简单？" class="nav-search-keyword">
+<div class="nav-search-btn">
+<button type="button" class="bilifont bili-icon_dingdao_sousuo nav-search-submit"></button>
+</div>
+</form>
+</div></div>
+
+
+                   <div>
+                    用户模块
+                   </div>
+            </header>
+
+
+
+
+
+           <section>
+               <div class="sidebar">
+                    <div class="sideber_main">
+                         <ul>
+                            <li>用户</li>
+                            <li>文章</li>
+                            <li>审核</li>
+                            <li>公告</li>
+                         </ul>
+                    </div>
+                    <div class="switch">《</div>
+                 </div>
+
+               <div class="content"></div>
+           </section>
+
+    </body>
+    </html>
